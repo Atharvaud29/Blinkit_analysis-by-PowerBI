@@ -53,7 +53,7 @@
 
 ## Example
 
-Preview image (<img width="1421" height="771" alt="Blinkit_Analysis" src="https://github.com/user-attachments/assets/faadf49f-dcbf-474a-8892-90b6281a6dc9" />)
+Preview image of dashboard (<img width="1421" height="771" alt="Blinkit_Analysis" src="https://github.com/user-attachments/assets/faadf49f-dcbf-474a-8892-90b6281a6dc9" />)
 
 ## Conclusion 
 
